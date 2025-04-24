@@ -4,16 +4,16 @@
   
   
   <entry>
-    <title>第一篇文章</title>
+    <title>Hexo常用命令</title>
     <link href="/2025/04/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <url>/2025/04/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>这是第一篇文章内容</p><p><a href="https://gitcode.csdn.net/65aa2e27b8e5f01e1e44c4da.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTE5NzY2NywiZXhwIjoxNzQ1NTUyNTM2LCJpYXQiOjE3NDQ5NDc3MzYsInVzZXJuYW1lIjoid2VpeGluXzQzOTIyNjM5In0.WVge2Ye0zJzHyqnNvjsmPRM7w946Me1w5JSq1MXVbKQ&spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~activity-16-119089190-blog-147325967.235%5Ev43%5Epc_blog_bottom_relevance_base5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~activity-16-119089190-blog-147325967.235%5Ev43%5Epc_blog_bottom_relevance_base5&utm_relevant_index=26">如何创建第一个博客</a></p><img src="/2025/04/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/test.jpg" class title="This is an example image"><h3 id="测试图片"><a href="#测试图片" class="headerlink" title="测试图片"></a>测试图片</h3><p><img src="/./%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/test.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Hexo常用命令"><a href="#Hexo常用命令" class="headerlink" title="Hexo常用命令"></a>Hexo常用命令</h2><ul><li>hexo serve &#x2F; s 启用 </li><li>hexo deloy &#x2F; d 发布 </li><li>hexo clean &#x2F;cl 清除缓存文件 db.json 和已生成的静态文件 public</li><li>hexo generate &#x2F; g 生成网站静态文件到默认设置的 public 文件夹</li></ul><h2 id="常用组合"><a href="#常用组合" class="headerlink" title="常用组合"></a>常用组合</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo clean &amp;&amp; hexo s<br>hexo clean &amp;&amp; hexo d<br></code></pre></td></tr></table></figure><h2 id="创建一个新页面"><a href="#创建一个新页面" class="headerlink" title="创建一个新页面"></a>创建一个新页面</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h2 id="图片插入示例"><a href="#图片插入示例" class="headerlink" title="图片插入示例"></a>图片插入示例</h2><img src="/2025/04/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/test.jpg" class title="This is an example image"><h2 id="创建博客的参考文档"><a href="#创建博客的参考文档" class="headerlink" title="创建博客的参考文档"></a>创建博客的参考文档</h2><p><a href="https://gitcode.csdn.net/65aa2e27b8e5f01e1e44c4da.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTE5NzY2NywiZXhwIjoxNzQ1NTUyNTM2LCJpYXQiOjE3NDQ5NDc3MzYsInVzZXJuYW1lIjoid2VpeGluXzQzOTIyNjM5In0.WVge2Ye0zJzHyqnNvjsmPRM7w946Me1w5JSq1MXVbKQ&spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~activity-16-119089190-blog-147325967.235%5Ev43%5Epc_blog_bottom_relevance_base5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~activity-16-119089190-blog-147325967.235%5Ev43%5Epc_blog_bottom_relevance_base5&utm_relevant_index=26">如何创建第一个博客</a></p>]]></content>
     
     
     <categories>
       
-      <category>Vue</category>
+      <category>Hexo</category>
       
     </categories>
     
